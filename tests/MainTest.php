@@ -10,7 +10,7 @@ class MainTest extends \Tests\TestCase
      *
      *
 
-    This is one great big huge test file that checks most of the features (not 100% yet) of this package.
+   
 
 
     List of all main routes, and if they are covered by any tests:
